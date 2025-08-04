@@ -12,12 +12,12 @@
     <a href="https://www.codewars.com/users/dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/Codewars-0D1117?style=for-the-badge&logo=Codewars&logoColor=B1361E"
        alt="Codewars" height="30"/></a>
-    <a href="https://github.com/nikitadmitr" target="_blank"><img align="center"
+    <a href="https://github.com/dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white"
        alt="GitHub" height="30"/></a>
   </p>
   <p align="center">
-    <a href="https://gitlab.com/nikitadmitr" target="_blank"><img align="center"
+    <a href="https://gitlab.com/dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=GitLab"
        alt="GitLab" height="30"/></a>
     <a href="#!" target="_blank"><img align="center"
