@@ -9,7 +9,7 @@
     <a href="https://codepen.io/dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/Codepen-0D1117?style=for-the-badge&logo=Codepen&logoColor=white"
        alt="Codepen" height="30"/></a>
-    <a href="https://www.codewars.com/users/codegener" target="_blank"><img align="center"
+    <a href="https://www.codewars.com/users/dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/Codewars-0D1117?style=for-the-badge&logo=Codewars&logoColor=B1361E"
        alt="Codewars" height="30"/></a>
     <a href="https://github.com/nikitadmitr" target="_blank"><img align="center"
