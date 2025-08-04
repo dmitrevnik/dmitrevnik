@@ -6,7 +6,7 @@
     <a href="https://leetcode.com/dmitrevnik/" target="_blank"><img align="center"
        src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=LeetCode&logoColor=FFA116"
        alt="LeetCode" height="30"/></a>
-    <a href="https://codepen.io/nikitadmitr" target="_blank"><img align="center"
+    <a href="https://codepen.io/dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/Codepen-0D1117?style=for-the-badge&logo=Codepen&logoColor=white"
        alt="Codepen" height="30"/></a>
     <a href="https://www.codewars.com/users/codegener" target="_blank"><img align="center"
