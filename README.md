@@ -29,7 +29,7 @@
     <a href="https://medium.com/@dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/medium-0D1117?style=for-the-badge&logo=Medium&logoColor=white"
        alt="Medium" height="30"/></a>
-    <a href="https://dev.to/nikitadmitr" target="_blank"><img align="center"
+    <a href="https://dev.to/dmitrevnik" target="_blank"><img align="center"
        src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=dev.to&logoColor=white"
        alt="Dev.to" height="30"/></a>
     <br>
