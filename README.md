@@ -37,12 +37,13 @@
 
 ![my activity](https://github-readme-activity-graph.vercel.app/graph?username=dmitrevnik&bg_color=0D1117&color=ffffff&line=2effcb&point=ffffff&hide_border=true&hide_title=true)
 
+<br>
 <div id="skills" align="center">
     <h3>facts</h3>
     <p>👨‍💻 i'm currently hacking on ai and development in general</p>
     <p>🌐 web and computer science are my passion</p>
     <p>📧 contact me via email - <a href="mailto:dmitrevnik@gmail.com">dmitrevnik@gmail.com</a></p>
-    <p>🐘 interesting fact: elephants live about 60 years</p>
+    <p>🐘 interesting fact: elephants live about 60 years</p><br>
     <h3>common skills</h3>
     <a href="#!">
       <img src="https://skillicons.dev/icons?i=astro,vue,react,nuxt,next,docker,postgres,kubernetes,ts,nestjs&perline=10" />
