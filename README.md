@@ -29,9 +29,6 @@
     <a href="https://stackoverflow.com/users/22067011/nikita-dmitriev" target="_blank"><img align="center"
        src="https://img.shields.io/badge/stackoverflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025"
        alt="StackOverflow" height="30"/></a>
-    <a href="https://stackoverflow.com/users/22067011/nikita-dmitriev" target="_blank"><img align="center"
-       src="https://img.shields.io/badge/stackoverflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025"
-       alt="StackOverflow" height="30"/></a>
   </p>
 </div>
 
